@@ -1,0 +1,9 @@
+Por favor, si el buscaminas no ejecuta nada al compilar, cerrar e intentar de nuevo
+
+los controles estan explicados al iniciar partida
+
+Nombres:
+*Angello Deivis Agualimpia Linares
+20191020137
+*Edison Andres Gamba Robayo
+20191020170
